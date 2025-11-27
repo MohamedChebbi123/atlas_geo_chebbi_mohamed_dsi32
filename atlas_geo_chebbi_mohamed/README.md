@@ -202,16 +202,4 @@ This is a private project. Not published to pub.dev.
 
 For any questions or issues, please refer to the [Flutter documentation](https://docs.flutter.dev/).
 
-## Screenshots :
 
-**welcome page** 
-![alt text](image.png)
-
-**countries page**
-![alt text](image-1.png)
-
-**country info**
-![alt text](image-2.png)
-
-**about_us**
-![alt text](image-3.png)
